@@ -1,1 +1,3 @@
-"# Ignore" 
+# Ignore
+.idea/
+secret-passwords.txt
